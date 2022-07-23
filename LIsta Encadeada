@@ -3,16 +3,16 @@
 #include <string.h>
 
 /*****************************************************
-*											  		                         *
-*	Andressa De Almeida Rodrigues			   		           *
-*	Universidade Federal do Pampa (UNIPAMPA)       		 *
-*	Bacharelado em Ciência da Computação	   	      	 *
-*	Estrutura de Dados 1 - Lista Encadeada        		 *
-*											  	                        	 *
+*		 	                             *
+*	Andressa De Almeida Rodrigues	             *
+*	Universidade Federal do Pampa (UNIPAMPA)     *
+*	Bacharelado em Ciência da Computação	     *
+*	Estrutura de Dados 1 - Lista Encadeada       *
+*       	  	                             *
 ******************************************************/
 
 //Obs: Possui erro ao remover					               
-//Melhorias: Busca(Nome), Busca(Case-sensitive) e	Alocação Dinamica.
+//Melhorias: Busca(Nome), Busca(Case-sensitive) e Alocação Dinamica.
 
 struct cliente
 {
