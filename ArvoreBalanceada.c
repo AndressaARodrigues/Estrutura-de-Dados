@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*************************************************
-*			                    								  		 *
-*	  Andressa De Almeida Rodrigues			   		     *
-* 	Universidade Federal do Pampa (UNIPAMPA)   	 *
-*	  Bacharelado em Ciência da Computação	   		 *
-*	  Estrutura de Dados 2 - Árvores Balanceadas   *	         
-*											  		                     *
-**************************************************/
+/****************************************************
+*			                    		  		    *
+*	  Andressa De Almeida Rodrigues			        *
+* 	  Universidade Federal do Pampa (UNIPAMPA)      *
+*	  Bacharelado em Ciência da Computação	   	    *
+*	  Estrutura de Dados 2 - Árvores Balanceadas    *	         
+*								                    *
+*****************************************************/
 
 //Melhorias: Busca(Case-sensitive).
 
