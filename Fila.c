@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <string.h>
 
-/**************************************************
-*											  		                      *
-* 	Andressa De Almeida Rodrigues			   		      *
-* 	Universidade Federal do Pampa (UNIPAMPA)      *
-*	  Bacharelado em Ciência da Computação	   	    *
-*	  Estrutura de Dados 1 - Fila             	    *				
-*											                            *
-***************************************************/
+/****************************************************
+*   	  		                            *
+*       Andressa De Almeida Rodrigues		    *
+* 	Universidade Federal do Pampa (UNIPAMPA)    *
+*	Bacharelado em Ciência da Computação	    *
+*	Estrutura de Dados 1 - Fila                 *				
+*		                                    *
+*****************************************************/
 
 //Melhorias: Busca(Nome), Busca(Case-sensitive) e Alocação Dinamica.	
 
