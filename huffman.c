@@ -7,18 +7,18 @@
 //algoritmo baseado em https://wagnergaspar.com/testando-nosso-algoritmo-de-huffman-codigo-de-huffman/
                                  	
 /***************************************************************
-*											  		           *
-*	Andressa De Almeida Rodrigues			   		           *
-*	Universidade Federal do Pampa (UNIPAMPA)   		           *
-*	Bacharelado em Ciência da Computação	   		           *
-*	Organização de Arquivos e Dados - algoritmo de Huffman     *
-*													           *
-*	Obs: lista para armazenar frequências, matriz de caracter  *
+*											  		                                   *
+*	  Andressa De Almeida Rodrigues			   		                   *
+*	  Universidade Federal do Pampa (UNIPAMPA)   		             *
+*	  Bacharelado em Ciência da Computação	   		               *
+*	  Organização de Arquivos e Dados - algoritmo de Huffman     *
+*													                                     *
+* 	Obs: lista para armazenar frequências, matriz de caracter  *
 *   para armazenar codigos, insertion sort para ordenação.     *
-*                               				               *	
-*	Melhorias: salvar frequência, leitura de arquivo           *
+*                               				                       *	
+* 	Melhorias: salvar frequência, leitura de arquivo           *
 *   comprimido, imprimir arvore(graphviz) e menu.              *    
-*   										  		           *
+*   										  		                                 *
 ***************************************************************/
 
 #define N 256 // tamanho
